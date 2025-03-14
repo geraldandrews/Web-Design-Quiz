@@ -236,5 +236,9 @@ h3 {
     .choice {
         width: 100%;
     }
+
+    .btn {
+        width: 75%;
+    }
 }
 
