@@ -3,7 +3,7 @@
 
 ### Project Description: Personal
 ### Programs Used: HTML, CSS, and JavaScript
-### Date Created March 2024
+### Date Created March 2025
 
 ## Description
 Web Design Quiz created from scratch. The quiz consists of 10 multiple choice questions where the user has 15 seconds to answer each question. There is a timer in the top left corner of the
